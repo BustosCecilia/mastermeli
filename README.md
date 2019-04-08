@@ -6,4 +6,6 @@ git clone https://github.com/BustosCecilia/mastermeli.git
 echo "# mastermeli" >> README.md
 git add README.md
 git commit -m "first commit"
-#
+-ignore archivos datospersonales y carpeta datos personales
+cree un archivo .gitignore
+
